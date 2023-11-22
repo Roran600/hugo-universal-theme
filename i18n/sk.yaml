@@ -1,14 +1,14 @@
 - id: home
-  translation: "Home"
+  translation: "Domov"
 
 - id: templateBy
   translation: "Design od"
 
 - id: portedBy
-  translation: "Pro Hugo transportoval" #"Portiert nach Hugo durch"
+  translation: "Pre Hugo tému portoval" #"Portiert nach Hugo durch"
 
 - id: contactGoTo
-  translation: "Ke kontaktnímu formuláři"
+  translation: "Ku kontaktnému formuláru"
 
 - id: contactAddrTitle
   translation: "Adresa"
@@ -17,100 +17,100 @@
   translation: "Kontakt"
 
 - id: contactForm
-  translation: "Kontaktní formulář"
+  translation: "Kontaktný formulár"
 
 - id: contactName
-  translation: "Vaše jméno"
+  translation: "Vaše meno"
 
 - id: contactMail
-  translation: "Vaše emailová adresa"
+  translation: "Vaša emailová adresa"
 
 - id: contactMessage
-  translation: "Vaše zpráva pro nás"
+  translation: "Vaša správa pre nás"
 
 - id: contactSend
-  translation: "Odeslat zprávu"
+  translation: "Odoslať správu"
 
 - id: navHome
-  translation: "K domovské stránce"
+  translation: "Na domovskú stránku"
 
 - id: navToggle
-  translation: "Zobrazit/schovat navigaci"
+  translation: "Zobraziť/schovať navigáciu"
 
 - id: categoriesTitle
-  translation: "Kategorie"
+  translation: "Kategória"
 
 - id: searchTitle
-  translation: "Vyhledávání"
+  translation: "Vyhľadávanie"
 
 - id: tagsTitle
-  translation: "Tags"
+  translation: "Tagy"
 
 - id: continueReading
-  translation: "Číst dál"
+  translation: "Čítať dalej"
 
 - id: readMore
-  translation: "Dozvědět se víc"
+  translation: "Dozvedieť sa viac"
 
 - id: authorBy
   translation: "Autor:"
 
 - id: recentPosts
-  translation: "Nové příspěvky"
+  translation: "Nové príspevky"
 
 - id: aboutUs
   translation: "O nás"
 
 - id: newer
-  translation: "Novější"
+  translation: "Novšie"
 
 - id: older
-  translation: "Starší"
+  translation: "Staršie"
 
 - id: publishedOn
-  translation: "Zveřejněno"
+  translation: "Zverejnené"
 
 - id: 404Error
-  translation: "Chyba 404: Stránka nebyla nalezena"
+  translation: "Chyba 404: Stránka nebola nájdená"
 
 - id: 404Message
-  translation: "Je nám líto – tahle stránka zde již není"
+  translation: "Je nám ľúto - táto stránka je nedostupná"
 
 - id: 404NavHome
-  translation: "K domovské stránce"
+  translation: "Na domovskú stránku"
 
 - id: January
-  translation: Leden
+  translation: Január
 
 - id: February
-  translation: Únor
+  translation: Február
 
 - id: March
-  translation: Březen
+  translation: Marec
 
 - id: April
-  translation: Duben
+  translation: Apríl 
 
 - id: May
-  translation: Květen
+  translation: Máj
 
 - id: June
-  translation: Červen
+  translation: Jún
 
 - id: July
-  translation: Červenec
+  translation: Júl 
 
 - id: August
-  translation: Srpen
+  translation: August
 
 - id: September
-  translation: Září
+  translation: September
 
 - id: October
-  translation: Říjen
+  translation: Október
 
 - id: November
-  translation: Listopad
+  translation: November
 
 - id: December
-  translation: Prosinec
+  translation: December
